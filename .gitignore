@@ -1,5 +1,6 @@
 
 file 
+<<<<<<< HEAD
 
 
 
@@ -9,3 +10,5 @@ file
 .ignore
 gitignore
 
+=======
+>>>>>>> aff79d8 (newly added file)
