@@ -1,14 +1,21 @@
 
 file 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 
+=======
+*.txt
+>>>>>>> c10700e (latest python code)
 
 .igore
 
 .ignore
 gitignore
 
+<<<<<<< HEAD
 =======
 >>>>>>> aff79d8 (newly added file)
+=======
+>>>>>>> c10700e (latest python code)
